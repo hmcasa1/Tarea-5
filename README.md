@@ -45,6 +45,8 @@ Mapas conceptuales tema IX Y X
 Ejercicios Cap IX y X
 
 2. Evalúe cada determinante:
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%202.png)
  
 	(4*3) -(6*2) = 0
   
@@ -55,6 +57,8 @@ Ejercicios Cap IX y X
 	(100*(-20)) -(50*30) = -3500
   
 4. Evalúe cada uno de los determinantes:
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%204.png)
  
 A) [1*4*0]+ [0*1*2]+ [(-2) *5*10] –[[2*4*-2]+ [5*0*0]+ [10*1*1]] = (0+0-100) -(-16+0+10) = -94
 
@@ -62,7 +66,7 @@ B) [0.5*1.2*5]+ [1*1.5*(-0.1)]+ [(-0.8) *0.1*(-0.3)] –[[-0.1*1.2*0.8]+ [0.1*1*
 
 6. Determine I3 en el ejemplo 9-4
 
-
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%206.png)
 
 ■(2&0.5&1@0.75&0&2@3&0.2&0) = [(2*0*0) + (0.5*2*3) + (1*0.75*0.2)] - [(3*0*1) + (0.2*2*2) + (0*0.75*0.5)]= (0+3+0.15) - (0+0.8+0)= 3.15-0.8=2.35
 
@@ -72,6 +76,7 @@ I3 = 2.025/2.35  =0.861A=861mA
 
 *8. Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:
  
+ ![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%208.png)
  
 V1= 1.61 V
 
@@ -83,6 +88,7 @@ V4= 4.69 V
 
 10. Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.
  
+ ![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2010.png)
  
 I1= 1.23A
 
@@ -91,6 +97,8 @@ I2= 2.05A
 I3= 1.88A
 
 12. Resuelva para cada una de las corrientes de rama ilustradas en la figura 9-26.
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2012.png)
  
 I1-I2-I3=0
 
@@ -126,6 +134,7 @@ ITotal=I2+I3=633 mA+58.4 mA=691.4 mA
 
 14. Determine la corriente a través de cada resistor mostrado en la figura 9-27.
  
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2014.png)
 
 I1-I2=100 mA →(12-v_A)/47-v_A/100=0.1 →100 (12-v_A )-47v_A=470
 
@@ -156,6 +165,8 @@ Siguiendo la ecuación: =(0.045)(0.042)(0.290)+(0.130)(0.109)(0.078)+(0.066)(0.1
 Respuesta= - 0.00391
 
 18. Determine las corrientes de rama en la figura 9-28.
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2018.png)
  
 (1000+560) I_1-560I_2=-6
 
@@ -178,6 +189,8 @@ I_2=-3.52 mA
 I_3=I_1-I_2→I_3=-5.11 mA-(-3.52 mA)→1.59mA
 
 20. Escriba las ecuaciones de lazo para el circuito de la figura 9-29.
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2020.png)
  
 (47+10) I_1-10I_2=1.5
 
@@ -194,6 +207,8 @@ Dando las siguientes ecuaciones:
 -4.7I_2+19.7I_3=1.5
 
 22. Determine la corriente a través de cada resistor en la figura 9-29.
+
+![!](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2022%20.png)
  
 Por el ejercicio 21 al resolverlo por calculadora tenemos:
 
@@ -208,6 +223,8 @@ I_10Ω=I_1-I_2        I_10Ω=15.6 mA-(-61.3mA)    I_10Ω=76.9 mA
 I_4.7Ω=I_2-I_3        I_10Ω=-61.3 mA-61.5mA    I_10Ω=123 mA
 
 24. Cuando se conecta un resistor de 10 Ω desde la terminal A hasta la terminal B en la figura 9-30, ¿cuál es la corriente que circula a través de él?
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2024%20a.png)
  
 (10+4.7+2.2) I_1-〖4.7I〗_2-〖2.2I〗_3=8V 
 
@@ -222,6 +239,8 @@ I_4.7Ω=I_2-I_3        I_10Ω=-61.3 mA-61.5mA    I_10Ω=123 mA
 -2.2I_1-〖10I〗_2+〖16.1I〗_3=0 
 
 Ingresamos el sistema en la calculadora
+
+![!](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2024%20b.png)
  
 I_2=202mA 
 
@@ -230,6 +249,8 @@ I_3=201mA
 I_BA=I_2-I_3     I_BA=202mA-201mA=1mA
 
 26. En la figura 9-32, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.
+ 
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2026.png) 
  
 La ecuacion inicial: 
 
@@ -250,6 +271,8 @@ V_A=782040/27626
 V_A=28.3V 
 
 28. Escriba las ecuaciones de voltaje de nodo para la figura 9-29. Use su calculadora para determinar los voltajes de nodo.
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2028%20a.png)
  
 La ecuacion inicial: 
 
@@ -270,6 +293,8 @@ Ley de Ohm:                                                               Sustit
 1.58V_A-0.037V_B=0.0319 
 
 Ingresamos el sistema en la calculadora 
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2028%20b.png)
  
 V_1=0.0749V     V_1=74.9mV
 
@@ -277,11 +302,7 @@ V_2=2.3368V
 
 30. Determine el voltaje en los puntos A, B y C en la figura 9-34.
 
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2030.png)
 
 nodo A=I_1-I_2+I_3+I_4=0
 
@@ -300,15 +321,14 @@ nodo A=〖-4V〗_A+V_B+V_C=-24
 nodo B=V_A-〖3V〗_B=-42
 
 nodo C=V_A-3V_C=-28
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2030%20b.png)
  
 V_A=14.2 v
 
 V_B=18.2 V
 
 V_C=14.1 V
-
-
-
 
 2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
 
@@ -318,12 +338,9 @@ B=Φ/A=(1500 µWb)/(0.5 m^2 )=3000µT=3T
 
 B=(0.6 G)=(1 T)/(G 〖10〗^4 G)=60µT=0.06 T
 
-
-
-
-
 6. ¿Qué le sucede a la aguja de la brújula mostrada en la figura 10-9 cuando la corriente que circula a través del conductor se invierte
  
+ ![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%206%20cap10.png)
 
 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es 150X10^-7 Wb/At*m.
 
@@ -334,6 +351,8 @@ R=1/(µA)=(0.28 M)/((150*〖10〗^(-7) Wb/ At*m)(0.28m)^2 )=233x10^3  At/Wb
 Cuando se activa un solenoide, su émbolo se retrae.
 
 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2012%20cap%2010.png)
  
 R/El relé conecta +9 V al pin 2 encendiendo la lámpara 2 y apagando la lámpara 1.
 
@@ -348,6 +367,8 @@ H=1500At/0.2m
 H=7500 At/m
 
 16.En la figura 10-44, hay 500 vueltas
+
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2016%20cap%2010.png)
  
 H=Fm/t
 
@@ -398,6 +419,7 @@ V_ind=1.75kv
 
 22. En la figura 10-33, ¿por qué no se induce voltaje cuando el disco no está girando? 
 
+![1](https://github.com/hmcasa1/Tarea-5/blob/e7c5a9bbd4cd17c51af3bd91d28bb2049afdeae4/Im%C3%A1genes/Ejercicio%2022%20cap%2010.png) 
  
 El campo magnético no cambia, por lo cual, no existe voltaje inducido.
 
