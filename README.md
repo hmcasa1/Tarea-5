@@ -427,6 +427,17 @@ El campo magnético no cambia, por lo cual, no existe voltaje inducido.
 
 60 rⅇv/s x2 vⅇcⅇs/rⅇv=120 vⅇcⅇs/s
 
+*CONCLUSIONES 
+
+•Para llegar a comprender las clases que se abordan en estos capitulos se debe tener conocimientos de los anteriores capitulos, caso contrario se complicara el proceso de resolucion de los ejercicios 
+
+•Resulto mas sencillo la realizacion de los ejercios en este caso ya que se comprendieron los temas de buena manera
+
+*BIBLIOGRAFIA 
+
+• Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
+
+• https://www.canva.com/design/DAFE9DiMjzM/HxTaNWr82Y4bj41Xipuz1w/edit
 
 
 
