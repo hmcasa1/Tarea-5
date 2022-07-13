@@ -10,13 +10,13 @@ NRC:7322
 
 OBJETIVO GENERAL
 
- •
+ •Comprender el análisis de ramas, lazos y nodos,los conceptos y el funcionamiento del magnetismo y el electromagnetismo, por medio de la investigación en fuentes confiables, resolución de ejerciciospara así lograr aplicar los métodos de corrientes en ramas y trayectorias cerradas, método de voltaje en nodos, y conceptos del magnetismo y electromagnetismo.
 
 OBJETIVO ESPECIFICO 
 
- •
+ •Explicar como plantear y resolver un sistema de ecuaciones en el analisis de circuitos.
  
-  •
+ •Demostrar los métodos de corrientes en ramas, corrientes en trayectorias cerradas y voltaje en nodos.
 
 *MARCO TEORICO 
 
@@ -432,6 +432,8 @@ El campo magnético no cambia, por lo cual, no existe voltaje inducido.
 •Para llegar a comprender las clases que se abordan en estos capitulos se debe tener conocimientos de los anteriores capitulos, caso contrario se complicara el proceso de resolucion de los ejercicios 
 
 •Resulto mas sencillo la realizacion de los ejercios en este caso ya que se comprendieron los temas de buena manera
+
+•Los métodos de corrientes en ramas, corrientes en trayectorias cerradas y voltaje en nodos, se basan en las leyes de voltaje y corrientes de kirchooff, respetando las polaridades y reduciendo el problema a un sistema de ecuaciones.
 
 *BIBLIOGRAFIA 
 
